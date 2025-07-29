@@ -4,3 +4,5 @@ connector:
     cmd_type_topic: "cmd_type"
     cmd_vel_topic: "cmd_vel"
     publish_rate: 5.0  # Hz
+    joy_vel_topic: "joy_vel"
+    keyboard_vel_topic: "keyboard_vel"
