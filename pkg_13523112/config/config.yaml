@@ -1,0 +1,6 @@
+connector:
+  ros__parameters:
+    autonomous_vel_topic: "autonomous_vel"
+    cmd_type_topic: "cmd_type"
+    cmd_vel_topic: "cmd_vel"
+    publish_rate: 5.0  # Hz
